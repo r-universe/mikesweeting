@@ -8,3 +8,8 @@
 	url = https://github.com/mikesweeting/bcrm
 	shallow = true
 	registered = true
+[submodule "pipe.design"]
+	path = pipe.design
+	url = https://github.com/mikesweeting/pipe.design
+	shallow = true
+	registered = true

@@ -2,5 +2,9 @@
   {
     "package": "bcrm",
     "oncran": true
+  },
+  {
+    "package": "pipe.design",
+    "oncran": true
   }
 ]
